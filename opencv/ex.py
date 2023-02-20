@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 # 以图的形式读取图像
-#
+# 添加注释
 from matplotlib import pyplot as plt
 
 img = cv2.imread('../img/1.jpg', 0)
